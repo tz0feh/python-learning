@@ -1,4 +1,4 @@
-#Autho: tz0feh
+#Author: tz0feh
 #Version 1.1
 #Learning Python Programming
 import random
